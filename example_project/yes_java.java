@@ -1,6 +1,6 @@
 /*
  *	MIT 
- * 	BSD-3-Clause LICENSE HEAR
+ * 	BSD-3-Clause LICENSE HERE
  */
 
 class MyClass {

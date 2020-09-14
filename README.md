@@ -19,7 +19,7 @@
 
 Вывод: лицензии и соответствующие им имена файлов (без полного пути, поэтому имена могут повторяться)
 
-Пример работы на ![example_project](https://github.com/ivanrybin/internship_jbr_licenses_2020/tree/master/example_project) (файлы содержат истинные, недоступные лицензии или не содержат их вовсе):
+Пример работы на [example_project](https://github.com/ivanrybin/internship_jbr_licenses_2020/tree/master/example_project) (файлы содержат истинные, недоступные лицензии или не содержат их вовсе):
 
           Input project directory:
           /some/path/example_project

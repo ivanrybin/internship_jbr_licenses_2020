@@ -1,5 +1,5 @@
 /*
- *	HEAR IS NO LICENSE
+ *	HERE IS NO LICENSE
  *
  */
 
